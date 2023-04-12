@@ -1,1 +1,1 @@
-# Indentifing open vs. occupied tables using AlexNet
+# Identifing Open vs.Occupied Tables Using AlexNet
